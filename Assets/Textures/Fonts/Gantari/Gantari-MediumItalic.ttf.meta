@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 3962b8c62fae208479f90a9ce4c5761b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gantari
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 240332f8f9881d14594e66ca7e696fd8, type: 3}
+  - {fileID: 12800000, guid: 096d62c33290ba84d8155eb1f80ffc79, type: 3}
+  - {fileID: 12800000, guid: c259cd68142b22f438827b454ea28a60, type: 3}
+  - {fileID: 12800000, guid: 94fa079486faffd49b7e8a9418fec4a6, type: 3}
+  - {fileID: 12800000, guid: 01158358fe4c8f64b84cbd9033eaef3c, type: 3}
+  - {fileID: 12800000, guid: 239c98de3f24f394d8e18a3ad1e0b632, type: 3}
+  - {fileID: 12800000, guid: 8017bab7d408def48b3651c2725a3c80, type: 3}
+  - {fileID: 12800000, guid: 58570e98b83799e46932d4ed837b9c60, type: 3}
+  - {fileID: 12800000, guid: 12469f0319fc194438e54bd74e29c727, type: 3}
+  - {fileID: 12800000, guid: 21dea60d7fa79ce48b8f6a305bab4b7d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

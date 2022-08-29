@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc863670bbd00bb48b497a600c0b0882, type: 3}
+  m_Name: MP7
+  m_EditorClassIdentifier: 
+  weaponType: 0
+  swapSpeed: 2
+  defaultPos: {x: 0.25, y: -0.275, z: 0.25}
+  damage: 24
+  fireRate: 1
+  aimSpeed: 0
+  recoilRateX: 1
+  recoilRateY: 2
+  zoomFactor: 10
+  bloomRate: 10
+  magSize: 46
+  aimPos: {x: 0.001, y: -0.254, z: 0.124}
+  reloadPos: {x: 0.25, y: -0.475, z: 0.25}
+  xWeaponKick: 0.001
+  zWeaponKick: 0.025
+  zWeaponKickAim: -0.025
+  reloadTimeSeconds: 1
+  magCount: 1
+  semiAuto: 0
+  knifeSpeedSeconds: 0.5
+  cookTimeSeconds: -1
+  throwDistance: 5

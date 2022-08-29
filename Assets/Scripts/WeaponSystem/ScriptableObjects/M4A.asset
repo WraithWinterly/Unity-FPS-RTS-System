@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc863670bbd00bb48b497a600c0b0882, type: 3}
+  m_Name: M4A
+  m_EditorClassIdentifier: 
+  weaponType: 0
+  swapSpeed: 4
+  defaultPos: {x: 0.3, y: -0.35, z: 0.2}
+  damage: 30
+  fireRate: 2
+  aimSpeed: 2
+  recoilRateX: 2
+  recoilRateY: 2
+  zoomFactor: 20
+  bloomRate: 10
+  magSize: 46
+  aimPos: {x: 0, y: -0.4075, z: 0.1}
+  reloadPos: {x: 0.3, y: -0.475, z: 0.2}
+  xWeaponKick: 0.001
+  zWeaponKick: 0.05
+  zWeaponKickAim: -0.06
+  reloadTimeSeconds: 1
+  magCount: 5
+  semiAuto: 0
+  knifeSpeedSeconds: 0
+  cookTimeSeconds: 0
+  throwDistance: 0
